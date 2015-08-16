@@ -1,0 +1,21 @@
+{
+    "file": "site\/modules\/ProcessWireUpgrade\/ProcessWireUpgradeCheck.config.php",
+    "textdomain": "site--modules--processwireupgrade--processwireupgradecheck-config-php",
+    "translations": {
+        "cfcc31ef0aa4f562eb31a9ba4226317f": {
+            "text": "Jos \"Ei\" on valittu, p\u00e4ivitykset tarkistetaan k\u00e4sin vain kun klikkaat Asetukset > P\u00e4ivitykset."
+        },
+        "050e62291bde7f21c9f4b1c54ba6706a": {
+            "text": "Tarkista p\u00e4ivitykset kun superuser kirjautuu sis\u00e4\u00e4n?"
+        },
+        "716f5e2e44f2093376d9ea23d3616180": {
+            "text": "Automaattinen p\u00e4ivitysten tarkistus vaatii ProcessWiren version 2.5.20 tai uudemman."
+        },
+        "93cba07454f06a4a960172bbd6e2a435": {
+            "text": "Kyll\u00e4"
+        },
+        "bafd7322c6e97d25b6299b5d6fe8920b": {
+            "text": "Ei"
+        }
+    }
+}
