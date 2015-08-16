@@ -1,0 +1,27 @@
+{
+    "file": "site\/modules\/CroppableImage\/InputfieldCroppableImage\/InputfieldCroppableImage.module",
+    "textdomain": "site--modules--croppableimage--inputfieldcroppableimage--inputfieldcroppableimage-module",
+    "translations": {
+        "7dce122004969d56ae2e0245cb754d35": {
+            "text": "Muokkaa"
+        },
+        "ad2ac1967f0165ebf04a84bc1819e0de": {
+            "text": "Siirr\u00e4 alimmaiseksi"
+        },
+        "727b701bcc5f26422461f10c07a58d48": {
+            "text": "Siirr\u00e4 ylimm\u00e4iseksi"
+        },
+        "110deb8556c764e2e160831b5a43da38": {
+            "text": "Rajausasetus (%s) on isompi kuin alkuper\u00e4inen kuva (%s), eik\u00e4 kuvan skaalaus isommaksi ole sallittu."
+        },
+        "de95b43bceeb4b998aed4aed5cef1ae7": {
+            "text": "muokkaa"
+        },
+        "563d6aae16024e55556351466524efa5": {
+            "text": "Rajausasetukset"
+        },
+        "f2a593b8e8e9a7fb218a127931479205": {
+            "text": "Kirjoita rajausten koot seuraavassa muodossa: nimi,leveys,korkeus. Esim. \"vaaka,900,600\" tai \"pysty,200,600\". Kirjoita yksi asetus rivi\u00e4 kohden. Voit my\u00f6s m\u00e4\u00e4ritt\u00e4\u00e4 rajausasetukset sivupohjakohtaisesti kirjoittamalla sivupohjan tai sivupohjien nimet viimeiseksi parametriksi. Esim. \"panorama,1200,600,home\" tai \"nelio,300,300,basic-page,home\""
+        }
+    }
+}

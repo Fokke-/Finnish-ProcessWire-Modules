@@ -1,0 +1,24 @@
+{
+    "file": "site\/modules\/CroppableImage\/FieldtypeCroppableImage\/FieldtypeCroppableImage.module",
+    "textdomain": "site--modules--croppableimage--fieldtypecroppableimage--fieldtypecroppableimage-module",
+    "translations": {
+        "96b4361a4ac76986019d236ec2cb40ad": {
+            "text": "Rajausasetukset: T\u00e4m\u00e4 rivi ei ole kelvollinen asetus: '%s'"
+        },
+        "114c5efd4560b2845e9e1a6d7c1c2342": {
+            "text": "Rajausasetukset: Seuraavia sivupohjia ei l\u00f6ytynyt: '%s'"
+        },
+        "bf5f684d1e7f95470a0ed0a97bc9c945": {
+            "text": "Rajausten nimet tulee olla yksil\u00f6llisi\u00e4. '%s' on jo olemassa: '%s'"
+        },
+        "19ce9a9982119b9065e46ab0b01ab6b0": {
+            "text": "Virheelliset rajausasetukset saattavat johtaa kuvavariaatioiden poistamiseen. Alkuper\u00e4iset asetukset palautettiin."
+        },
+        "48ef4e7c1d42fe1d54ec0a9f631446c1": {
+            "text": "Sivupohjalle '%s' ei l\u00f6ytynyt rajausasetusta '%s'"
+        },
+        "5a84bbeda7ec91e7c681b60229430774": {
+            "text": "Leveytt\u00e4 ja korkeutta ei l\u00f6ytynyt rajausasetukselle '%s'"
+        }
+    }
+}
